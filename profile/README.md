@@ -1,3 +1,3 @@
 ## FRC team #1977: *The Powersquids*
 
-We're a medium sized FRC team operating out of Loveland High School since 2005!
+We are a high school FRC team operating out of Loveland since 2005!
